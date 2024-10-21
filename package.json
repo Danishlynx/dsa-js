@@ -1,0 +1,13 @@
+{
+  "name": "100-js-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Danish Ali",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}

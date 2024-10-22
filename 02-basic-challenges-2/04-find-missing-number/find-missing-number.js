@@ -13,4 +13,3 @@ function findMissingNumber(arr) {
 }
 
 module.exports = findMissingNumber;
-q;
